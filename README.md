@@ -19,5 +19,5 @@ Los resultados de la evaluación servirán para definir una guía de temas a ref
 ## Entrega
 
 1. Se debe de subir un empaquetado (.zip) de los archivos solución y de los diagramas UML.
-2. Se entregara a través de Google Classroom todos los archivos y el diagrama de UML
+2. Se entregara a través de GitHub Classroom todos los archivos y el diagrama de UML
 
